@@ -1,0 +1,16 @@
+.container
+{
+    margin-left:10;
+}
+
+header{
+    height:50px;
+    font-weight:bold;
+    font-size:30px;
+    background:orangered;
+    color:white ;
+    text-align:center;
+}
+footer{
+    font-size: 20px;;
+}

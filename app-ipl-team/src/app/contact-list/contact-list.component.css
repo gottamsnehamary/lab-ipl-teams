@@ -1,0 +1,27 @@
+
+img {
+    margin-top: 15px;
+    height: 200px;
+    width: 200px;
+  }
+  
+  form {
+    align-self: flex-start;
+  }
+  
+  .contacts {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    margin-top: 20px;
+    width: 30%;
+  }
+  
